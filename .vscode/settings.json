@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./tinytag-1.10.1"
+    ],
+    "cmake.configureOnOpen": true
+}
